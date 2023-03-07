@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
  * 
  * </p>
  *
- * @author itcast
+ * @author Mr.W
  */
 @Data
 @TableName("teachplan_media")
@@ -58,6 +58,5 @@ public class TeachplanMedia implements Serializable {
      * 修改人
      */
     private String changePeople;
-
 
 }
