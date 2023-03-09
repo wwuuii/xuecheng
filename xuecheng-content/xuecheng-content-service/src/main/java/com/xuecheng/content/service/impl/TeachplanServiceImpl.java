@@ -23,7 +23,6 @@ import java.util.List;
  */
 @Service
 public class TeachplanServiceImpl implements TeachplanService {
-
     @Autowired
     TeachplanMapper teachplanMapper;
 
